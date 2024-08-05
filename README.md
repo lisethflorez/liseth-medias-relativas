@@ -3,7 +3,9 @@ este trabajo es de la tarjeta de metrolinea
 ## contenido
 es una targeta virtual
 como:
--carrito de compra
--trajeta metroplitana
--hoja de estilo
--costos
+- carrito de compra
+- trajeta metroplitana
+- hoja de estilo
+- costos
+## creador
+- liseth florez
